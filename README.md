@@ -19,11 +19,11 @@
   <a href="https://github.com/Kanakbaghel/Sentiment_Analysis_on_Product_Reviews/network/members"><img src="https://img.shields.io/github/forks/Kanakbaghel/Sentiment_Analysis_on_Product_Reviews.svg?style=social" alt="GitHub Forks"></a>
 </p>
 
+
+# YOU CAN ACCESS THE DATASET [HERE](https://www.kaggle.com/datasets/abdallahwagih/amazon-reviews/data)
 > **Unlock Customer Insights with AI-Powered Sentiment Analysis**  
 > Analyze Amazon product reviews to classify sentiments, uncover trends, and drive data-driven decisions. This project combines NLP, machine learning, and interactive visualizations for a comprehensive review analysis pipeline. (Note: Streamlit web app is optional and can be skipped if not familiar.)
 
-![Project Demo](<img width="1638" height="478" alt="image" src="https://github.com/user-attachments/assets/cd0c8d9f-0f14-4566-9746-8483c4ad241e" />)  
-*Interactive Visualizations from the Jupyter Notebook*
 
 ## 📋 Table of Contents
 - [Overview](#overview)
