@@ -105,7 +105,7 @@ Contributions make this project better! Here's how:
 
 ## Get in Touch
 
-Questions? Let's connect:
+Let's connect:
 - **GitHub:** [Kanakbaghel](https://github.com/Kanakbaghel)
 - **LinkedIn:** [Kanak Baghel](https://www.linkedin.com/in/kanakbaghel)
 
